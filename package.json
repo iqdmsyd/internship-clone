@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "confidence": "^5.0.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.1",
+    "joi": "^17.6.0",
+    "joi-objectid": "^4.0.2",
+    "mongodb": "^4.6.0",
+    "nodemon": "^2.0.16",
+    "restify": "^8.6.1",
+    "validate.js": "^0.13.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  }
+}
